@@ -2,7 +2,9 @@
 Natural Language Processing Project . Msc Computer Science University of Genoa
 
 Word AutoCorrection Implementation from scratch
+
 Riccardo Caprile (4370774)
+
 4370774@studenti.unige.it
 
 Heading 1: Introduction 
